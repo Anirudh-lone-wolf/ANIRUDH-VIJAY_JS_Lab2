@@ -1,6 +1,6 @@
 <h1 align="center">ANIRUDH-VIJAY_JS_Lab2</h1>
 <p align="center">
-<h2>Problem Statement </h2>
+<h2 align="center">Problem Statement </h2>
  You are part of an IT department who is involved in creating a client based “Quiz “ tool. 
 As part of which, you are asked to  
 Create a Quiz application which will have some questions along with four options for each 
