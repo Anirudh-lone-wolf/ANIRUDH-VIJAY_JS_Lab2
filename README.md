@@ -1,4 +1,4 @@
-# ANIRUDH-VIJAY_JS_Lab2
+<h1 align="center">ANIRUDH-VIJAY_JS_Lab2</h1>
 <p align="center">
 <h2>Problem Statement </h2>
  You are part of an IT department who is involved in creating a client based “Quiz “ tool. 
